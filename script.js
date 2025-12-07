@@ -1,6 +1,6 @@
 // Typing Animation
 const typingText = document.querySelector(".typing-text");
-const texts = ["IoT Developer","Networking Enthusiast","User Experience Designer", "EMI/EMC Tester ","Problem Solver"];
+const texts = ["IoT Developer","Networking Enthusiast","User Experience Designer", "EMI/EMC Tester","Problem Solver"];
 let index = 0;
 let charIndex = 0;
 
